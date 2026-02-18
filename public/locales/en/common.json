@@ -1,0 +1,59 @@
+{
+  "app": { "name": "DashboardACO", "tagline": "Resale Management" },
+  "nav": {
+    "dashboard": "Dashboard",
+    "events": "Events",
+    "products": "Products",
+    "calendar": "Calendar",
+    "treasury": "Treasury",
+    "accounting": "Accounting",
+    "tmAccounts": "TM Accounts",
+    "parcels": "Parcel Tracking",
+    "todos": "Todo List",
+    "alerts": "Alerts",
+    "settings": "Settings"
+  },
+  "actions": {
+    "create": "Create",
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "search": "Search",
+    "filter": "Filter",
+    "export": "Export",
+    "import": "Import",
+    "back": "Back",
+    "close": "Close",
+    "view": "View",
+    "viewAll": "View all"
+  },
+  "status": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "empty": "No data found",
+    "success": "Operation successful",
+    "saving": "Saving...",
+    "deleting": "Deleting..."
+  },
+  "table": {
+    "showing": "Showing {{from}} to {{to}} of {{total}}",
+    "noResults": "No results",
+    "rowsPerPage": "Rows per page",
+    "columns": "Columns"
+  },
+  "confirm": {
+    "delete": "Are you sure you want to delete this item?",
+    "deleteTitle": "Confirm deletion",
+    "unsavedChanges": "You have unsaved changes. Do you want to leave?"
+  },
+  "time": {
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "thisWeek": "This week",
+    "thisMonth": "This month",
+    "thisYear": "This year"
+  }
+}

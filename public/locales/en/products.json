@@ -1,0 +1,46 @@
+{
+  "title": "Products",
+  "addProduct": "Add a product",
+  "editProduct": "Edit product",
+  "deleteProduct": "Delete product",
+  "importVinted": "Import from Vinted",
+  "generateQR": "Generate QR Code",
+  "fields": {
+    "name": "Name",
+    "description": "Description",
+    "category": "Category",
+    "brand": "Brand",
+    "size": "Size",
+    "condition": "Condition",
+    "purchasePrice": "Purchase price",
+    "purchaseDate": "Purchase date",
+    "purchaseSource": "Purchase source",
+    "listingPrice": "Listing price",
+    "quantity": "Quantity",
+    "status": "Status",
+    "sku": "SKU",
+    "notes": "Notes"
+  },
+  "categories": {
+    "sneakers": "Sneakers",
+    "clothing": "Clothing",
+    "electronics": "Electronics",
+    "collectibles": "Collectibles",
+    "accessories": "Accessories",
+    "other": "Other"
+  },
+  "conditions": {
+    "new": "New",
+    "like_new": "Like new",
+    "good": "Good condition",
+    "fair": "Fair condition",
+    "poor": "Poor condition"
+  },
+  "statuses": {
+    "in_stock": "In stock",
+    "listed": "Listed",
+    "sold": "Sold",
+    "shipped": "Shipped",
+    "returned": "Returned"
+  }
+}

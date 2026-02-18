@@ -1,0 +1,69 @@
+{
+  "title": "Accounting",
+  "invoices": {
+    "title": "Invoices",
+    "addInvoice": "Create an invoice",
+    "editInvoice": "Edit invoice",
+    "deleteInvoice": "Delete invoice",
+    "number": "Invoice number",
+    "date": "Date",
+    "dueDate": "Due date",
+    "client": "Client",
+    "amount": "Amount",
+    "taxAmount": "Tax amount",
+    "totalAmount": "Total amount (incl. tax)",
+    "status": "Status",
+    "items": "Line items",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "notes": "Notes",
+    "downloadPdf": "Download PDF"
+  },
+  "invoiceStatuses": {
+    "draft": "Draft",
+    "sent": "Sent",
+    "paid": "Paid",
+    "overdue": "Overdue",
+    "cancelled": "Cancelled"
+  },
+  "tax": {
+    "title": "VAT",
+    "rate": "VAT rate",
+    "collected": "VAT collected",
+    "deductible": "VAT deductible",
+    "balance": "VAT balance",
+    "declaration": "VAT declaration",
+    "period": "Period",
+    "exempt": "VAT exempt"
+  },
+  "export": {
+    "title": "Exports",
+    "exportCsv": "Export to CSV",
+    "exportPdf": "Export to PDF",
+    "exportExcel": "Export to Excel",
+    "dateRange": "Date range",
+    "includeVat": "Include VAT",
+    "allTransactions": "All transactions",
+    "salesOnly": "Sales only",
+    "purchasesOnly": "Purchases only"
+  },
+  "reports": {
+    "title": "Reports",
+    "profitAndLoss": "Profit & Loss",
+    "balanceSheet": "Balance Sheet",
+    "taxReport": "Tax Report",
+    "salesReport": "Sales Report",
+    "expenseReport": "Expense Report",
+    "generate": "Generate report",
+    "period": "Period"
+  },
+  "categories": {
+    "sales": "Sales",
+    "purchases": "Purchases",
+    "fees": "Fees",
+    "shipping": "Shipping",
+    "subscriptions": "Subscriptions",
+    "taxes": "Taxes",
+    "other": "Other"
+  }
+}

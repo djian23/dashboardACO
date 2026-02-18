@@ -1,0 +1,77 @@
+{
+  "title": "Treasury",
+  "balance": {
+    "title": "Balance",
+    "current": "Current balance",
+    "available": "Available balance",
+    "pending": "Pending"
+  },
+  "income": {
+    "title": "Income",
+    "total": "Total income",
+    "sales": "Sales",
+    "refunds": "Refunds",
+    "other": "Other income"
+  },
+  "expense": {
+    "title": "Expenses",
+    "total": "Total expenses",
+    "purchases": "Purchases",
+    "fees": "Fees",
+    "shipping": "Shipping costs",
+    "subscriptions": "Subscriptions",
+    "other": "Other expenses"
+  },
+  "cashFlow": {
+    "title": "Cash Flow",
+    "inflow": "Inflow",
+    "outflow": "Outflow",
+    "net": "Net",
+    "monthly": "Monthly flow",
+    "weekly": "Weekly flow"
+  },
+  "transactions": {
+    "title": "Transactions",
+    "addTransaction": "Add a transaction",
+    "editTransaction": "Edit transaction",
+    "deleteTransaction": "Delete transaction",
+    "type": "Type",
+    "amount": "Amount",
+    "date": "Date",
+    "category": "Category",
+    "description": "Description",
+    "reference": "Reference",
+    "paymentMethod": "Payment method"
+  },
+  "subscriptions": {
+    "title": "Subscriptions",
+    "addSubscription": "Add a subscription",
+    "editSubscription": "Edit subscription",
+    "deleteSubscription": "Delete subscription",
+    "name": "Name",
+    "amount": "Amount",
+    "frequency": "Frequency",
+    "nextPayment": "Next payment",
+    "status": "Status",
+    "active": "Active",
+    "paused": "Paused",
+    "cancelled": "Cancelled",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "weekly": "Weekly"
+  },
+  "paymentMethods": {
+    "cash": "Cash",
+    "card": "Credit card",
+    "transfer": "Bank transfer",
+    "paypal": "PayPal",
+    "other": "Other"
+  },
+  "filters": {
+    "allTypes": "All types",
+    "allCategories": "All categories",
+    "dateRange": "Date range",
+    "income": "Income",
+    "expense": "Expenses"
+  }
+}

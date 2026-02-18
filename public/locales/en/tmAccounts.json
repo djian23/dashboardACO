@@ -1,0 +1,47 @@
+{
+  "title": "Ticketmaster Accounts",
+  "addAccount": "Add an account",
+  "editAccount": "Edit account",
+  "deleteAccount": "Delete account",
+  "fields": {
+    "email": "Email",
+    "password": "Password",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "phone": "Phone",
+    "address": "Address",
+    "city": "City",
+    "postalCode": "Postal code",
+    "country": "Country",
+    "status": "Status",
+    "notes": "Notes",
+    "createdAt": "Created at",
+    "lastUsed": "Last used",
+    "fanId": "Fan ID",
+    "paymentMethod": "Payment method"
+  },
+  "statuses": {
+    "active": "Active",
+    "suspended": "Suspended",
+    "banned": "Banned",
+    "inactive": "Inactive",
+    "pending_verification": "Pending verification"
+  },
+  "actions": {
+    "copyEmail": "Copy email",
+    "copyPassword": "Copy password",
+    "openTm": "Open Ticketmaster",
+    "checkStatus": "Check status",
+    "assignToLot": "Assign to lot"
+  },
+  "stats": {
+    "totalAccounts": "Total accounts",
+    "activeAccounts": "Active accounts",
+    "suspendedAccounts": "Suspended accounts",
+    "ticketsPurchased": "Tickets purchased"
+  },
+  "filters": {
+    "allStatuses": "All statuses",
+    "search": "Search account"
+  }
+}

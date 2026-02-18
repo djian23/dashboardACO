@@ -1,0 +1,77 @@
+{
+  "title": "Tresorerie",
+  "balance": {
+    "title": "Solde",
+    "current": "Solde actuel",
+    "available": "Solde disponible",
+    "pending": "En attente"
+  },
+  "income": {
+    "title": "Revenus",
+    "total": "Total revenus",
+    "sales": "Ventes",
+    "refunds": "Remboursements",
+    "other": "Autres revenus"
+  },
+  "expense": {
+    "title": "Depenses",
+    "total": "Total depenses",
+    "purchases": "Achats",
+    "fees": "Frais",
+    "shipping": "Frais de port",
+    "subscriptions": "Abonnements",
+    "other": "Autres depenses"
+  },
+  "cashFlow": {
+    "title": "Flux de tresorerie",
+    "inflow": "Entrees",
+    "outflow": "Sorties",
+    "net": "Net",
+    "monthly": "Flux mensuel",
+    "weekly": "Flux hebdomadaire"
+  },
+  "transactions": {
+    "title": "Transactions",
+    "addTransaction": "Ajouter une transaction",
+    "editTransaction": "Modifier la transaction",
+    "deleteTransaction": "Supprimer la transaction",
+    "type": "Type",
+    "amount": "Montant",
+    "date": "Date",
+    "category": "Categorie",
+    "description": "Description",
+    "reference": "Reference",
+    "paymentMethod": "Moyen de paiement"
+  },
+  "subscriptions": {
+    "title": "Abonnements",
+    "addSubscription": "Ajouter un abonnement",
+    "editSubscription": "Modifier l'abonnement",
+    "deleteSubscription": "Supprimer l'abonnement",
+    "name": "Nom",
+    "amount": "Montant",
+    "frequency": "Frequence",
+    "nextPayment": "Prochain paiement",
+    "status": "Statut",
+    "active": "Actif",
+    "paused": "En pause",
+    "cancelled": "Annule",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "weekly": "Hebdomadaire"
+  },
+  "paymentMethods": {
+    "cash": "Especes",
+    "card": "Carte bancaire",
+    "transfer": "Virement",
+    "paypal": "PayPal",
+    "other": "Autre"
+  },
+  "filters": {
+    "allTypes": "Tous les types",
+    "allCategories": "Toutes les categories",
+    "dateRange": "Periode",
+    "income": "Revenus",
+    "expense": "Depenses"
+  }
+}

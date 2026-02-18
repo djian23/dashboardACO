@@ -1,0 +1,105 @@
+{
+  "title": "Events",
+  "addEvent": "Add an event",
+  "addLot": "Add a lot",
+  "addSale": "Record a sale",
+  "editEvent": "Edit event",
+  "deleteEvent": "Delete event",
+  "fields": {
+    "name": "Name",
+    "date": "Date",
+    "endDate": "End date",
+    "venue": "Venue",
+    "city": "City",
+    "country": "Country",
+    "category": "Category",
+    "status": "Status",
+    "description": "Description",
+    "notes": "Notes",
+    "folder": "Folder"
+  },
+  "categories": {
+    "concert": "Concert",
+    "football": "Football",
+    "tennis": "Tennis",
+    "rugby": "Rugby",
+    "other": "Other"
+  },
+  "statuses": {
+    "upcoming": "Upcoming",
+    "ongoing": "Ongoing",
+    "completed": "Completed",
+    "cancelled": "Cancelled"
+  },
+  "ticketLot": {
+    "title": "Ticket Lots",
+    "section": "Section",
+    "row": "Row",
+    "seats": "Seats",
+    "ticketType": "Ticket type",
+    "quantity": "Quantity",
+    "purchasePrice": "Purchase price",
+    "totalCost": "Total cost",
+    "purchaseDate": "Purchase date",
+    "platform": "Platform",
+    "faceValue": "Face value",
+    "transferStatus": "Transfer status",
+    "account": "TM Account",
+    "status": "Status"
+  },
+  "ticketTypes": {
+    "mobile": "Mobile",
+    "e-ticket": "E-ticket",
+    "physical": "Physical"
+  },
+  "transferStatuses": {
+    "pending": "Pending",
+    "transferred": "Transferred",
+    "not_needed": "Not needed"
+  },
+  "lotStatuses": {
+    "in_stock": "In stock",
+    "listed": "Listed",
+    "sold": "Sold",
+    "transferred": "Transferred",
+    "cancelled": "Cancelled"
+  },
+  "sale": {
+    "platform": "Sales platform",
+    "quantity": "Quantity sold",
+    "price": "Sale price",
+    "fees": "Fees",
+    "shipping": "Shipping costs",
+    "date": "Sale date",
+    "buyer": "Buyer",
+    "buyerEmail": "Buyer email",
+    "tracking": "Tracking number",
+    "status": "Status"
+  },
+  "views": {
+    "list": "List",
+    "card": "Cards",
+    "bubble": "Bubbles"
+  },
+  "filters": {
+    "allCategories": "All categories",
+    "allStatuses": "All statuses",
+    "allFolders": "All folders",
+    "dateRange": "Date range"
+  },
+  "summary": {
+    "totalInvested": "Total Invested",
+    "totalRevenue": "Total Revenue",
+    "totalProfit": "Total Profit",
+    "totalTickets": "Total Tickets"
+  },
+  "folders": {
+    "title": "Folders",
+    "addFolder": "New folder",
+    "editFolder": "Edit folder",
+    "deleteFolder": "Delete folder",
+    "name": "Folder name",
+    "color": "Color",
+    "allEvents": "All events"
+  }
+}

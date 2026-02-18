@@ -1,0 +1,69 @@
+{
+  "title": "Comptabilite",
+  "invoices": {
+    "title": "Factures",
+    "addInvoice": "Creer une facture",
+    "editInvoice": "Modifier la facture",
+    "deleteInvoice": "Supprimer la facture",
+    "number": "Numero de facture",
+    "date": "Date",
+    "dueDate": "Date d'echeance",
+    "client": "Client",
+    "amount": "Montant",
+    "taxAmount": "Montant TVA",
+    "totalAmount": "Montant TTC",
+    "status": "Statut",
+    "items": "Lignes",
+    "subtotal": "Sous-total",
+    "total": "Total",
+    "notes": "Notes",
+    "downloadPdf": "Telecharger PDF"
+  },
+  "invoiceStatuses": {
+    "draft": "Brouillon",
+    "sent": "Envoyee",
+    "paid": "Payee",
+    "overdue": "En retard",
+    "cancelled": "Annulee"
+  },
+  "tax": {
+    "title": "TVA",
+    "rate": "Taux de TVA",
+    "collected": "TVA collectee",
+    "deductible": "TVA deductible",
+    "balance": "Solde TVA",
+    "declaration": "Declaration de TVA",
+    "period": "Periode",
+    "exempt": "Exonere de TVA"
+  },
+  "export": {
+    "title": "Exports",
+    "exportCsv": "Exporter en CSV",
+    "exportPdf": "Exporter en PDF",
+    "exportExcel": "Exporter en Excel",
+    "dateRange": "Periode",
+    "includeVat": "Inclure la TVA",
+    "allTransactions": "Toutes les transactions",
+    "salesOnly": "Ventes uniquement",
+    "purchasesOnly": "Achats uniquement"
+  },
+  "reports": {
+    "title": "Rapports",
+    "profitAndLoss": "Compte de resultat",
+    "balanceSheet": "Bilan",
+    "taxReport": "Rapport TVA",
+    "salesReport": "Rapport des ventes",
+    "expenseReport": "Rapport des depenses",
+    "generate": "Generer le rapport",
+    "period": "Periode"
+  },
+  "categories": {
+    "sales": "Ventes",
+    "purchases": "Achats",
+    "fees": "Frais",
+    "shipping": "Frais de port",
+    "subscriptions": "Abonnements",
+    "taxes": "Taxes",
+    "other": "Autre"
+  }
+}

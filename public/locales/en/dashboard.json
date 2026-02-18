@@ -1,0 +1,25 @@
+{
+  "title": "Dashboard",
+  "kpi": {
+    "totalInvested": "Total Invested",
+    "totalRevenue": "Total Revenue",
+    "totalProfit": "Total Profit",
+    "roi": "ROI",
+    "ticketsInStock": "Tickets in Stock",
+    "productsInStock": "Products in Stock"
+  },
+  "charts": {
+    "monthlyPnl": "Monthly P&L",
+    "profitByCategory": "Profit by Category",
+    "revenue": "Revenue",
+    "costs": "Costs",
+    "profit": "Profit"
+  },
+  "activity": {
+    "title": "Recent Activity",
+    "sale": "Sale",
+    "purchase": "Purchase",
+    "eventCreated": "Event Created",
+    "productAdded": "Product Added"
+  }
+}

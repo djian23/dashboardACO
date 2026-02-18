@@ -1,0 +1,105 @@
+{
+  "title": "Evenements",
+  "addEvent": "Ajouter un evenement",
+  "addLot": "Ajouter un lot",
+  "addSale": "Enregistrer une vente",
+  "editEvent": "Modifier l'evenement",
+  "deleteEvent": "Supprimer l'evenement",
+  "fields": {
+    "name": "Nom",
+    "date": "Date",
+    "endDate": "Date de fin",
+    "venue": "Lieu",
+    "city": "Ville",
+    "country": "Pays",
+    "category": "Categorie",
+    "status": "Statut",
+    "description": "Description",
+    "notes": "Notes",
+    "folder": "Dossier"
+  },
+  "categories": {
+    "concert": "Concert",
+    "football": "Football",
+    "tennis": "Tennis",
+    "rugby": "Rugby",
+    "other": "Autre"
+  },
+  "statuses": {
+    "upcoming": "A venir",
+    "ongoing": "En cours",
+    "completed": "Termine",
+    "cancelled": "Annule"
+  },
+  "ticketLot": {
+    "title": "Lots de billets",
+    "section": "Bloc",
+    "row": "Rang",
+    "seats": "Places",
+    "ticketType": "Type de billet",
+    "quantity": "Quantite",
+    "purchasePrice": "Prix d'achat",
+    "totalCost": "Cout total",
+    "purchaseDate": "Date d'achat",
+    "platform": "Plateforme",
+    "faceValue": "Valeur faciale",
+    "transferStatus": "Statut transfert",
+    "account": "Compte TM",
+    "status": "Statut"
+  },
+  "ticketTypes": {
+    "mobile": "Mobile",
+    "e-ticket": "E-ticket",
+    "physical": "Physique"
+  },
+  "transferStatuses": {
+    "pending": "En attente",
+    "transferred": "Transfere",
+    "not_needed": "Non necessaire"
+  },
+  "lotStatuses": {
+    "in_stock": "En stock",
+    "listed": "En vente",
+    "sold": "Vendu",
+    "transferred": "Transfere",
+    "cancelled": "Annule"
+  },
+  "sale": {
+    "platform": "Plateforme de vente",
+    "quantity": "Quantite vendue",
+    "price": "Prix de vente",
+    "fees": "Frais",
+    "shipping": "Frais de port",
+    "date": "Date de vente",
+    "buyer": "Acheteur",
+    "buyerEmail": "Email acheteur",
+    "tracking": "N° de suivi",
+    "status": "Statut"
+  },
+  "views": {
+    "list": "Liste",
+    "card": "Cartes",
+    "bubble": "Bulles"
+  },
+  "filters": {
+    "allCategories": "Toutes les categories",
+    "allStatuses": "Tous les statuts",
+    "allFolders": "Tous les dossiers",
+    "dateRange": "Periode"
+  },
+  "summary": {
+    "totalInvested": "Total investi",
+    "totalRevenue": "Revenu total",
+    "totalProfit": "Profit total",
+    "totalTickets": "Total billets"
+  },
+  "folders": {
+    "title": "Dossiers",
+    "addFolder": "Nouveau dossier",
+    "editFolder": "Modifier le dossier",
+    "deleteFolder": "Supprimer le dossier",
+    "name": "Nom du dossier",
+    "color": "Couleur",
+    "allEvents": "Tous les evenements"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Alerts",
+  "addAlert": "Create an alert",
+  "editAlert": "Edit alert",
+  "deleteAlert": "Delete alert",
+  "fields": {
+    "name": "Name",
+    "type": "Type",
+    "status": "Status",
+    "message": "Message",
+    "eventName": "Event",
+    "triggerDate": "Trigger date",
+    "triggerTime": "Trigger time",
+    "url": "URL",
+    "notes": "Notes",
+    "createdAt": "Created at",
+    "lastTriggered": "Last triggered"
+  },
+  "types": {
+    "billetterie_opening": "Ticketing opening",
+    "presale": "Presale",
+    "transfer_reminder": "Transfer reminder",
+    "payment_reminder": "Payment reminder",
+    "price_drop": "Price drop",
+    "custom": "Custom"
+  },
+  "statuses": {
+    "active": "Active",
+    "triggered": "Triggered",
+    "expired": "Expired",
+    "disabled": "Disabled"
+  },
+  "discord": {
+    "title": "Discord Webhook",
+    "webhookUrl": "Webhook URL",
+    "channelName": "Channel name",
+    "testWebhook": "Test webhook",
+    "webhookSuccess": "Webhook sent successfully",
+    "webhookError": "Error sending webhook",
+    "enabled": "Discord notifications enabled",
+    "disabled": "Discord notifications disabled",
+    "mentionRole": "Mention a role",
+    "mentionEveryone": "Mention @everyone"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "email": "Email notification",
+    "push": "Push notification",
+    "discord": "Discord notification",
+    "sound": "Notification sound"
+  },
+  "filters": {
+    "allTypes": "All types",
+    "allStatuses": "All statuses",
+    "active": "Active",
+    "upcoming": "Upcoming"
+  },
+  "empty": "No alerts configured",
+  "upcoming": "Upcoming alerts",
+  "history": "Alert history"
+}

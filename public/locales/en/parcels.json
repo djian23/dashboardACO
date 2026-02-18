@@ -1,0 +1,63 @@
+{
+  "title": "Parcel Tracking",
+  "addParcel": "Add a parcel",
+  "editParcel": "Edit parcel",
+  "deleteParcel": "Delete parcel",
+  "fields": {
+    "trackingNumber": "Tracking number",
+    "carrier": "Carrier",
+    "status": "Status",
+    "sender": "Sender",
+    "recipient": "Recipient",
+    "origin": "Origin",
+    "destination": "Destination",
+    "weight": "Weight",
+    "dimensions": "Dimensions",
+    "shippingDate": "Shipping date",
+    "estimatedDelivery": "Estimated delivery",
+    "actualDelivery": "Actual delivery",
+    "cost": "Cost",
+    "notes": "Notes",
+    "relatedSale": "Related sale"
+  },
+  "carriers": {
+    "colissimo": "Colissimo",
+    "chronopost": "Chronopost",
+    "mondial_relay": "Mondial Relay",
+    "ups": "UPS",
+    "fedex": "FedEx",
+    "dhl": "DHL",
+    "laposte": "La Poste",
+    "royal_mail": "Royal Mail",
+    "other": "Other"
+  },
+  "statuses": {
+    "preparing": "Preparing",
+    "shipped": "Shipped",
+    "in_transit": "In transit",
+    "out_for_delivery": "Out for delivery",
+    "delivered": "Delivered",
+    "returned": "Returned",
+    "lost": "Lost",
+    "exception": "Exception"
+  },
+  "tracking": {
+    "title": "Tracking history",
+    "lastUpdate": "Last update",
+    "refresh": "Refresh tracking",
+    "noUpdates": "No updates available",
+    "copyTracking": "Copy tracking number",
+    "openCarrierSite": "Open carrier website"
+  },
+  "stats": {
+    "totalParcels": "Total parcels",
+    "inTransit": "In transit",
+    "delivered": "Delivered",
+    "pending": "Pending"
+  },
+  "filters": {
+    "allCarriers": "All carriers",
+    "allStatuses": "All statuses",
+    "dateRange": "Date range"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Liste de Taches",
+  "addTodo": "Ajouter une tache",
+  "editTodo": "Modifier la tache",
+  "deleteTodo": "Supprimer la tache",
+  "fields": {
+    "title": "Titre",
+    "description": "Description",
+    "priority": "Priorite",
+    "status": "Statut",
+    "dueDate": "Date d'echeance",
+    "assignee": "Assigne a",
+    "category": "Categorie",
+    "notes": "Notes",
+    "createdAt": "Date de creation",
+    "completedAt": "Date de completion"
+  },
+  "priorities": {
+    "urgent": "Urgent",
+    "high": "Haute",
+    "medium": "Moyenne",
+    "low": "Basse"
+  },
+  "statuses": {
+    "todo": "A faire",
+    "in_progress": "En cours",
+    "done": "Termine",
+    "cancelled": "Annule"
+  },
+  "categories": {
+    "purchase": "Achat",
+    "sale": "Vente",
+    "shipping": "Expedition",
+    "transfer": "Transfert",
+    "accounting": "Comptabilite",
+    "other": "Autre"
+  },
+  "filters": {
+    "all": "Toutes",
+    "active": "Actives",
+    "completed": "Terminees",
+    "allPriorities": "Toutes les priorites",
+    "allCategories": "Toutes les categories",
+    "overdue": "En retard"
+  },
+  "stats": {
+    "total": "Total",
+    "completed": "Terminees",
+    "pending": "En attente",
+    "overdue": "En retard"
+  },
+  "actions": {
+    "markComplete": "Marquer comme termine",
+    "markIncomplete": "Marquer comme non termine",
+    "duplicate": "Dupliquer"
+  },
+  "empty": "Aucune tache pour le moment",
+  "allDone": "Toutes les taches sont terminees !"
+}

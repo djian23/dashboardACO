@@ -1,0 +1,40 @@
+{
+  "title": "Calendrier",
+  "views": {
+    "month": "Mois",
+    "week": "Semaine",
+    "day": "Jour"
+  },
+  "addEvent": "Ajouter un evenement",
+  "editEvent": "Modifier l'evenement",
+  "deleteEvent": "Supprimer l'evenement",
+  "today": "Aujourd'hui",
+  "categories": {
+    "event": "Evenement",
+    "deadline": "Echeance",
+    "billetterie": "Billetterie",
+    "reminder": "Rappel",
+    "other": "Autre"
+  },
+  "fields": {
+    "title": "Titre",
+    "date": "Date",
+    "startTime": "Heure de debut",
+    "endTime": "Heure de fin",
+    "allDay": "Toute la journee",
+    "category": "Categorie",
+    "description": "Description",
+    "color": "Couleur",
+    "recurring": "Recurrent",
+    "location": "Lieu"
+  },
+  "recurring": {
+    "none": "Aucune",
+    "daily": "Quotidien",
+    "weekly": "Hebdomadaire",
+    "monthly": "Mensuel",
+    "yearly": "Annuel"
+  },
+  "noEvents": "Aucun evenement pour cette date",
+  "upcomingEvents": "Evenements a venir"
+}
