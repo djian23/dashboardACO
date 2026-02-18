@@ -1,0 +1,104 @@
+{
+  "title": "Settings",
+  "tabs": {
+    "general": "General",
+    "profile": "Profile",
+    "business": "Business",
+    "notifications": "Notifications"
+  },
+  "general": {
+    "title": "General Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "themes": {
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System"
+    },
+    "currency": "Currency",
+    "currencies": {
+      "eur": "Euro (EUR)",
+      "usd": "US Dollar (USD)",
+      "gbp": "British Pound (GBP)"
+    },
+    "dateFormat": "Date format",
+    "timezone": "Timezone",
+    "defaultView": "Default view",
+    "itemsPerPage": "Items per page",
+    "autoSave": "Auto save",
+    "compactMode": "Compact mode"
+  },
+  "profile": {
+    "title": "User Profile",
+    "avatar": "Profile picture",
+    "changeAvatar": "Change picture",
+    "fullName": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "changePassword": "Change password",
+    "currentPassword": "Current password",
+    "newPassword": "New password",
+    "confirmPassword": "Confirm password",
+    "updateProfile": "Update profile",
+    "deleteAccount": "Delete account",
+    "deleteAccountWarning": "This action is irreversible. All your data will be deleted."
+  },
+  "business": {
+    "title": "Business Information",
+    "companyName": "Company name",
+    "siret": "SIRET",
+    "vatNumber": "VAT number",
+    "address": "Address",
+    "city": "City",
+    "postalCode": "Postal code",
+    "country": "Country",
+    "phone": "Phone",
+    "email": "Business email",
+    "website": "Website",
+    "logo": "Logo",
+    "changeLogo": "Change logo",
+    "invoicePrefix": "Invoice prefix",
+    "defaultVatRate": "Default VAT rate",
+    "bankDetails": "Bank details",
+    "iban": "IBAN",
+    "bic": "BIC"
+  },
+  "notifications": {
+    "title": "Notification Preferences",
+    "email": {
+      "title": "Email Notifications",
+      "enabled": "Enable email notifications",
+      "sales": "New sales",
+      "alerts": "Alerts",
+      "reports": "Periodic reports",
+      "newsletter": "Newsletter"
+    },
+    "push": {
+      "title": "Push Notifications",
+      "enabled": "Enable push notifications",
+      "sales": "New sales",
+      "alerts": "Alerts",
+      "reminders": "Reminders"
+    },
+    "discord": {
+      "title": "Discord Notifications",
+      "enabled": "Enable Discord notifications",
+      "webhookUrl": "Webhook URL",
+      "sales": "New sales",
+      "alerts": "Alerts",
+      "tracking": "Parcel updates"
+    }
+  },
+  "data": {
+    "title": "Data",
+    "exportAll": "Export all data",
+    "importData": "Import data",
+    "resetData": "Reset data",
+    "resetWarning": "This action is irreversible. All your data will be deleted.",
+    "backup": "Backup",
+    "restore": "Restore",
+    "lastBackup": "Last backup"
+  },
+  "saved": "Settings saved",
+  "saveError": "Error saving settings"
+}

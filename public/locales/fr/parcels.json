@@ -1,0 +1,63 @@
+{
+  "title": "Suivi des Colis",
+  "addParcel": "Ajouter un colis",
+  "editParcel": "Modifier le colis",
+  "deleteParcel": "Supprimer le colis",
+  "fields": {
+    "trackingNumber": "Numero de suivi",
+    "carrier": "Transporteur",
+    "status": "Statut",
+    "sender": "Expediteur",
+    "recipient": "Destinataire",
+    "origin": "Origine",
+    "destination": "Destination",
+    "weight": "Poids",
+    "dimensions": "Dimensions",
+    "shippingDate": "Date d'expedition",
+    "estimatedDelivery": "Livraison estimee",
+    "actualDelivery": "Livraison effective",
+    "cost": "Cout",
+    "notes": "Notes",
+    "relatedSale": "Vente associee"
+  },
+  "carriers": {
+    "colissimo": "Colissimo",
+    "chronopost": "Chronopost",
+    "mondial_relay": "Mondial Relay",
+    "ups": "UPS",
+    "fedex": "FedEx",
+    "dhl": "DHL",
+    "laposte": "La Poste",
+    "royal_mail": "Royal Mail",
+    "other": "Autre"
+  },
+  "statuses": {
+    "preparing": "En preparation",
+    "shipped": "Expedie",
+    "in_transit": "En transit",
+    "out_for_delivery": "En cours de livraison",
+    "delivered": "Livre",
+    "returned": "Retourne",
+    "lost": "Perdu",
+    "exception": "Exception"
+  },
+  "tracking": {
+    "title": "Historique de suivi",
+    "lastUpdate": "Derniere mise a jour",
+    "refresh": "Rafraichir le suivi",
+    "noUpdates": "Aucune mise a jour disponible",
+    "copyTracking": "Copier le numero de suivi",
+    "openCarrierSite": "Ouvrir le site du transporteur"
+  },
+  "stats": {
+    "totalParcels": "Total colis",
+    "inTransit": "En transit",
+    "delivered": "Livres",
+    "pending": "En attente"
+  },
+  "filters": {
+    "allCarriers": "Tous les transporteurs",
+    "allStatuses": "Tous les statuts",
+    "dateRange": "Periode"
+  }
+}

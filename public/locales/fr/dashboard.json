@@ -1,0 +1,25 @@
+{
+  "title": "Tableau de bord",
+  "kpi": {
+    "totalInvested": "Total investi",
+    "totalRevenue": "Revenu total",
+    "totalProfit": "Profit total",
+    "roi": "ROI",
+    "ticketsInStock": "Tickets en stock",
+    "productsInStock": "Produits en stock"
+  },
+  "charts": {
+    "monthlyPnl": "P&L mensuel",
+    "profitByCategory": "Profit par categorie",
+    "revenue": "Revenus",
+    "costs": "Couts",
+    "profit": "Profit"
+  },
+  "activity": {
+    "title": "Activite recente",
+    "sale": "Vente",
+    "purchase": "Achat",
+    "eventCreated": "Evenement cree",
+    "productAdded": "Produit ajoute"
+  }
+}

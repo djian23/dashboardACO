@@ -1,0 +1,59 @@
+{
+  "app": { "name": "DashboardACO", "tagline": "Gestion de Revente" },
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "events": "Evenements",
+    "products": "Produits",
+    "calendar": "Calendrier",
+    "treasury": "Tresorerie",
+    "accounting": "Comptabilite",
+    "tmAccounts": "Comptes TM",
+    "parcels": "Suivi Colis",
+    "todos": "Liste de Taches",
+    "alerts": "Alertes",
+    "settings": "Parametres"
+  },
+  "actions": {
+    "create": "Creer",
+    "add": "Ajouter",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "export": "Exporter",
+    "import": "Importer",
+    "back": "Retour",
+    "close": "Fermer",
+    "view": "Voir",
+    "viewAll": "Voir tout"
+  },
+  "status": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "empty": "Aucune donnee trouvee",
+    "success": "Operation reussie",
+    "saving": "Enregistrement...",
+    "deleting": "Suppression..."
+  },
+  "table": {
+    "showing": "Affichage de {{from}} a {{to}} sur {{total}}",
+    "noResults": "Aucun resultat",
+    "rowsPerPage": "Lignes par page",
+    "columns": "Colonnes"
+  },
+  "confirm": {
+    "delete": "Etes-vous sur de vouloir supprimer cet element ?",
+    "deleteTitle": "Confirmer la suppression",
+    "unsavedChanges": "Vous avez des modifications non enregistrees. Voulez-vous quitter ?"
+  },
+  "time": {
+    "today": "Aujourd'hui",
+    "yesterday": "Hier",
+    "thisWeek": "Cette semaine",
+    "thisMonth": "Ce mois",
+    "thisYear": "Cette annee"
+  }
+}

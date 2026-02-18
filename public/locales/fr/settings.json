@@ -1,0 +1,104 @@
+{
+  "title": "Parametres",
+  "tabs": {
+    "general": "General",
+    "profile": "Profil",
+    "business": "Entreprise",
+    "notifications": "Notifications"
+  },
+  "general": {
+    "title": "Parametres generaux",
+    "language": "Langue",
+    "theme": "Theme",
+    "themes": {
+      "light": "Clair",
+      "dark": "Sombre",
+      "system": "Systeme"
+    },
+    "currency": "Devise",
+    "currencies": {
+      "eur": "Euro (EUR)",
+      "usd": "Dollar US (USD)",
+      "gbp": "Livre sterling (GBP)"
+    },
+    "dateFormat": "Format de date",
+    "timezone": "Fuseau horaire",
+    "defaultView": "Vue par defaut",
+    "itemsPerPage": "Elements par page",
+    "autoSave": "Sauvegarde automatique",
+    "compactMode": "Mode compact"
+  },
+  "profile": {
+    "title": "Profil utilisateur",
+    "avatar": "Photo de profil",
+    "changeAvatar": "Changer la photo",
+    "fullName": "Nom complet",
+    "email": "Email",
+    "phone": "Telephone",
+    "changePassword": "Changer le mot de passe",
+    "currentPassword": "Mot de passe actuel",
+    "newPassword": "Nouveau mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "updateProfile": "Mettre a jour le profil",
+    "deleteAccount": "Supprimer le compte",
+    "deleteAccountWarning": "Cette action est irreversible. Toutes vos donnees seront supprimees."
+  },
+  "business": {
+    "title": "Informations entreprise",
+    "companyName": "Nom de l'entreprise",
+    "siret": "SIRET",
+    "vatNumber": "Numero de TVA",
+    "address": "Adresse",
+    "city": "Ville",
+    "postalCode": "Code postal",
+    "country": "Pays",
+    "phone": "Telephone",
+    "email": "Email professionnel",
+    "website": "Site web",
+    "logo": "Logo",
+    "changeLogo": "Changer le logo",
+    "invoicePrefix": "Prefixe facture",
+    "defaultVatRate": "Taux de TVA par defaut",
+    "bankDetails": "Coordonnees bancaires",
+    "iban": "IBAN",
+    "bic": "BIC"
+  },
+  "notifications": {
+    "title": "Preferences de notification",
+    "email": {
+      "title": "Notifications par email",
+      "enabled": "Activer les notifications par email",
+      "sales": "Nouvelles ventes",
+      "alerts": "Alertes",
+      "reports": "Rapports periodiques",
+      "newsletter": "Newsletter"
+    },
+    "push": {
+      "title": "Notifications push",
+      "enabled": "Activer les notifications push",
+      "sales": "Nouvelles ventes",
+      "alerts": "Alertes",
+      "reminders": "Rappels"
+    },
+    "discord": {
+      "title": "Notifications Discord",
+      "enabled": "Activer les notifications Discord",
+      "webhookUrl": "URL du webhook",
+      "sales": "Nouvelles ventes",
+      "alerts": "Alertes",
+      "tracking": "Mises a jour colis"
+    }
+  },
+  "data": {
+    "title": "Donnees",
+    "exportAll": "Exporter toutes les donnees",
+    "importData": "Importer des donnees",
+    "resetData": "Reinitialiser les donnees",
+    "resetWarning": "Cette action est irreversible. Toutes vos donnees seront supprimees.",
+    "backup": "Sauvegarder",
+    "restore": "Restaurer",
+    "lastBackup": "Derniere sauvegarde"
+  },
+  "saved": "Parametres enregistres",
+  "saveError": "Erreur lors de l'enregistrement des parametres"
+}

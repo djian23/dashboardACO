@@ -1,0 +1,47 @@
+{
+  "title": "Comptes Ticketmaster",
+  "addAccount": "Ajouter un compte",
+  "editAccount": "Modifier le compte",
+  "deleteAccount": "Supprimer le compte",
+  "fields": {
+    "email": "Email",
+    "password": "Mot de passe",
+    "firstName": "Prenom",
+    "lastName": "Nom",
+    "phone": "Telephone",
+    "address": "Adresse",
+    "city": "Ville",
+    "postalCode": "Code postal",
+    "country": "Pays",
+    "status": "Statut",
+    "notes": "Notes",
+    "createdAt": "Date de creation",
+    "lastUsed": "Derniere utilisation",
+    "fanId": "Fan ID",
+    "paymentMethod": "Moyen de paiement"
+  },
+  "statuses": {
+    "active": "Actif",
+    "suspended": "Suspendu",
+    "banned": "Banni",
+    "inactive": "Inactif",
+    "pending_verification": "Verification en cours"
+  },
+  "actions": {
+    "copyEmail": "Copier l'email",
+    "copyPassword": "Copier le mot de passe",
+    "openTm": "Ouvrir Ticketmaster",
+    "checkStatus": "Verifier le statut",
+    "assignToLot": "Assigner a un lot"
+  },
+  "stats": {
+    "totalAccounts": "Total comptes",
+    "activeAccounts": "Comptes actifs",
+    "suspendedAccounts": "Comptes suspendus",
+    "ticketsPurchased": "Billets achetes"
+  },
+  "filters": {
+    "allStatuses": "Tous les statuts",
+    "search": "Rechercher un compte"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Todo List",
+  "addTodo": "Add a task",
+  "editTodo": "Edit task",
+  "deleteTodo": "Delete task",
+  "fields": {
+    "title": "Title",
+    "description": "Description",
+    "priority": "Priority",
+    "status": "Status",
+    "dueDate": "Due date",
+    "assignee": "Assignee",
+    "category": "Category",
+    "notes": "Notes",
+    "createdAt": "Created at",
+    "completedAt": "Completed at"
+  },
+  "priorities": {
+    "urgent": "Urgent",
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low"
+  },
+  "statuses": {
+    "todo": "To do",
+    "in_progress": "In progress",
+    "done": "Done",
+    "cancelled": "Cancelled"
+  },
+  "categories": {
+    "purchase": "Purchase",
+    "sale": "Sale",
+    "shipping": "Shipping",
+    "transfer": "Transfer",
+    "accounting": "Accounting",
+    "other": "Other"
+  },
+  "filters": {
+    "all": "All",
+    "active": "Active",
+    "completed": "Completed",
+    "allPriorities": "All priorities",
+    "allCategories": "All categories",
+    "overdue": "Overdue"
+  },
+  "stats": {
+    "total": "Total",
+    "completed": "Completed",
+    "pending": "Pending",
+    "overdue": "Overdue"
+  },
+  "actions": {
+    "markComplete": "Mark as complete",
+    "markIncomplete": "Mark as incomplete",
+    "duplicate": "Duplicate"
+  },
+  "empty": "No tasks yet",
+  "allDone": "All tasks are done!"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Calendar",
+  "views": {
+    "month": "Month",
+    "week": "Week",
+    "day": "Day"
+  },
+  "addEvent": "Add an event",
+  "editEvent": "Edit event",
+  "deleteEvent": "Delete event",
+  "today": "Today",
+  "categories": {
+    "event": "Event",
+    "deadline": "Deadline",
+    "billetterie": "Ticketing",
+    "reminder": "Reminder",
+    "other": "Other"
+  },
+  "fields": {
+    "title": "Title",
+    "date": "Date",
+    "startTime": "Start time",
+    "endTime": "End time",
+    "allDay": "All day",
+    "category": "Category",
+    "description": "Description",
+    "color": "Color",
+    "recurring": "Recurring",
+    "location": "Location"
+  },
+  "recurring": {
+    "none": "None",
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "yearly": "Yearly"
+  },
+  "noEvents": "No events for this date",
+  "upcomingEvents": "Upcoming events"
+}
