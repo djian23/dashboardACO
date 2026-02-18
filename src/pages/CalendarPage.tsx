@@ -6,7 +6,7 @@ import { WeekView } from '@/components/calendar/WeekView'
 import { DayView } from '@/components/calendar/DayView'
 import { CalendarEventModal } from '@/components/calendar/CalendarEventModal'
 import { useCalendarEvents } from '@/hooks/useCalendarEvents'
-import type { CalendarEvent, Event } from '@/types'
+import type { CalendarEvent } from '@/types'
 
 export default function CalendarPage() {
   const { t } = useTranslation('calendar')
@@ -28,7 +28,7 @@ export default function CalendarPage() {
     const regularEvents = data?.events ?? []
 
     const eventsAsCalendar: CalendarEvent[] = regularEvents.map(
-      (ev: Event) => ({
+      (ev: { id: string; name: string; event_date: string; event_end_date: string | null; category: string; venue: string | null; city: string | null; status: string }) => ({
         id: `event-${ev.id}`,
         user_id: '',
         title: ev.name,
